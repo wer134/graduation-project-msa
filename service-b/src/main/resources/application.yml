@@ -1,0 +1,6 @@
+server:
+  port: 8082 # service-b는 8082 포트 사용
+
+spring:
+  application:
+    name: service-b

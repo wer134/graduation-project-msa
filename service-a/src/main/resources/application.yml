@@ -1,0 +1,6 @@
+server:
+  port: 8081 # service-a는 8081 포트 사용
+
+spring:
+  application:
+    name: service-a
